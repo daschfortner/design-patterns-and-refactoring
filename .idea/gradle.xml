@@ -7,6 +7,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/src" />
+            <option value="$PROJECT_DIR$/src/main" />
+            <option value="$PROJECT_DIR$/src/main/patterns" />
+            <option value="$PROJECT_DIR$/src/patterns" />
           </set>
         </option>
         <option name="myGradleHome" value="" />
